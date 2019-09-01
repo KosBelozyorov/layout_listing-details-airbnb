@@ -5,7 +5,7 @@ ul, .main-nav__list, .apartment__card .main-params__list, .apartment__card .amen
   list-style: none;
   padding: 0; }
 
-.form-order__container, .order-date, .order-guests {
+.form__container, .order-date, .order-guests {
   border: 1px solid #e1e7ed;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -181,7 +181,7 @@ body {
     margin-bottom: 28px; }
     .apartment__card .main-params__list-item:not(:last-child) {
       margin-right: 30px; }
-  .apartment__card .full-desc {
+  .apartment__card .full-description {
     height: 120px;
     margin-bottom: 5px;
     line-height: 24px; }
@@ -270,7 +270,7 @@ body {
     background-color: #118488;
     color: #fff; }
 
-.form-order__container {
+.form__container {
   width: 330px;
   height: 319px;
   padding: 30px 30px 38px; }
@@ -331,7 +331,7 @@ body {
   .footer {
     padding: 44px 27.5%; } }
 
-.footer-title {
+.footer__title {
   font-family: Avenir-Heavy, sans-serif;
   margin-bottom: 20px; }
 
